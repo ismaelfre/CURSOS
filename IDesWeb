@@ -1,0 +1,375 @@
+1. Antes de leer el artículo, ¿sabías quién era Tim Berners-Lee?
+Sí, el inventor de la Web.
+2. En el artículo se afirma "la world wide web, la telaraña mundial, cumple 25 años es
+te miércoles (28/10/2014)", ¿estás de acuerdo con esta afirmación?
+no
+3. En el artículo se dice "Tim Berners-Lee, el creador de este protocolo", ¿estás de a
+cuerdo con esta afirmación?
+Si
+4. En el artículo se dice "su lenguaje de programación, el HTML", ¿estás de acuerdo con
+esta afirmación?
+No.
+5. En el artículo se dice "Mosaic fue el primero [el primer navegador]", ¿utilizaste
+Mosaic alguna vez?
+No
+6. En el artículo se dice "Después llegó el Netscape de Marc Andreessen", ¿cómo se llamaba
+el navegador de Netscape?
+Navigator.
+Actividad
+1. ¿Dónde trabajaba Tim Berners-Lee cuando desarrolló su idea que se convirtió en la Web
+?
+CERN.
+2. ¿Cuanto tiempo pasó desde que Tim Berners-Lee crease su informe a que se desarrol
+lase el primer servidor, navegador y pagina web?
+Algo mas de un año.
+Actividad
+1. ¿Quién está considerado como uno de los padres de Internet?
+Vinton Cerf.
+2. ¿Qué protocolo se emplea para la transmisión de los datos en la Web?
+HTTP.
+3. ¿Qué protocolo se emplea para establecer conexiones remotas con otros ordenadores
+a través de Internet?
+Telnet.
+Módulo 1: Cómo funciona la Web
+Actividad
+1. ¿Qué elemento supuso un cambio importante en las páginas web al permitir un mayor g
+rado de interacción entre el usuario y las páginas web?
+Los formularios.
+2. ¿Cuál es una de las principales ventajas de las aplicaciones web?
+No necesitan actualizarse por parte del usuario.
+3.Para desarrollar una aplicación web es necesario poseer conocimientos:
+De programación y de bases de datos.
+Actividad
+1. Pault Otlet propuso la construcción de Mundaneum que era:
+Un archivo centralizado en el que se recogiese todo el conocimiento de l
+a humanidad.
+2. ¿Cuál es el título del famoso artículo que publicó Vannevar Bush sobre su máquina memex?
+As We May Think.
+3. Una posible definición de hipermedia es:
+Conjunto estructurado de diversos medios, como textos, gráficos, imágenes y
+sonidos, unidos entre sí por enlaces y conexiones lógicas para la transmisión de una i
+nformación
+Actividad
+1. URL es el acrónimo de
+Uniform Resource Locator.
+2. En una URL, el esquema define
+El mecanismo o método que se emplea para recuperar un recurso a través de un
+a red de ordenadores.
+3. Un acortador de URL es un mecanismo que permite
+Convertir una URL larga en una URL corta.
+Actividad
+1. Los nombres de dominio de primer nivel se organizan en
+Genéricos y territoriales.
+2. ¿Cómo se identifica realmente un ordenador en Internet?
+Por su dirección IP.
+3. ¿Cuáles eran los dominios de propósito general que inicialmente existieron?
+edu, .gov, .mil, .net y .org.
+Módulo 1: Cómo funciona la Web
+Actividad
+1. La información que se publica en un blog aparece:
+Ordenada cronológicamente apareciendo primero la más reciente.
+2. Los blog de Blogger tienen una dirección que finaliza con:
+blogspot.com.
+3. ¿Quién define las etiquetas de un blog?
+El autor o propietario de un blog.
+Módulo 1: Cómo funciona la Web
+Examen
+1. ¿Qué significa CMS?
+Content Management System.
+2. ¿Qué es una URL amigable?
+Una URL que es fácil de entender por el usuario.
+3. ¿Cómo se llama el sistema que realiza la correspondencia entre las direcciones IP
+y los nombres de dominio?
+DNS.
+4. Aproximadamente, ¿cuántos nuevos nombres de dominio de primer nivel se han solici
+tado recientemente?
+1900.
+300
+8700
+5. Las direcciones IPv4 se expresan por un número binario de:
+32 bits.
+6. ¿Cómo se llama el organismo que regula los nombres de dominio?
+ICANN.
+7. ¿Cómo se asignan los nombres de dominio acabados en .com?
+Primero en llegar primero servido.
+8. ¿Por qué es famoso Ted Nelson?
+Por acuñar el término hipertexto.
+9. Una posible definición de hipertexto es:
+Una posible definición de hipertexto es:
+10.Respecto las URLs:
+Es importante que la URL de una página web no cambie
+Módulo 2: Cómo se escribe una página web
+Actividad
+1. Responde si es verdadera o falsa la siguiente afirmación: "El desarrollo web se
+encarga del aspecto de una web y el diseño de su comportamiento".
+Falso.
+2. Responde si es verdadera o falsa la siguiente afirmación: "El desarrollo web em
+plea herramientas gráficas como Adobe Photoshop y GIMP".
+Falso
+3. El desarrollo de una aplicación o sitio web se divide en:
+Parte cliente y servidor.
+4. El desarrollo de una aplicación o sitio web se puede dividir en:
+Contacto inicial, planificación, contenido, diseño, desarrollo y lanzamient
+o.
+Módulo 2: Cómo se escribe una página web
+Actividad
+1. ¿Quién es considerado el padre del lenguaje HTML?
+Tim Berners-Lee.
+2. ¿A partir de qué se desarrolló el lenguaje HTML?
+SGML.
+3. ¿Qué elemento no incluía la primera versión de HTML?
+Tablas.
+4. ¿Qué etiqueta nunca ha sido oficialmente parte del estándar de HTML?
+blink.
+5. Según el W3C, ¿cuándo se espera que HTML5 esté terminado y sea una recomendación oficia
+l?
+2014.
+6. ¿Qué significa HTML?
+HyperText Markup Language.
+Actividad
+1. El lenguaje HTML describe
+La estructura y el contenido de una página web.
+2. ¿Quién desarrolla el lenguaje HTML?
+W3C.
+3. En HTML, ¿la etiqueta final o de cierre puede llevar atributos?
+No.
+4. ¿Se puede ver el código HTML de cualquier página publicada en Internet?
+Si.
+Actividad
+<html>
+<head>
+<title>HTML</title>
+</head>
+<body>
+<h1>HTML</h1>
+<p><strong>HTML</strong> son las siglas de <em>HyperText Markup Language</em>, q
+ue puede traducirse como lenguaje de marcas o marcado de hipertexto.
+</p>
+<p>El lenguaje <strong>HTML</strong> se emplea para crear las páginas web. Es muy
+fácil ver el código <strong>HTML</strong> de una página web, la opción exacta cambia de
+un navegador a otro y también puede cambiar de una versión a otra de un mismo navega
+dor, pero suelen tener un nombre similar.
+</p>
+<p><strong>HTML</strong> se compone de etiquetas que se escriben entre los símbolo
+s menor que y mayor que.</p>
+<h2>Historia de HTML</h2>
+<p>Los inicios del lenguaje <strong>HTML</strong> se remontan al año 1990, cuando
+<em>Tim Berners-Lee</em> creó la primera página web.</p>
+<h2>Versiones de HTML</h2>
+<p><em>Tim Berners-Lee</em> definió la primera versión de <strong>HTML</strong> en e
+l año 1991</p>
+<p>En la actualidad, la última versión de <strong>HTML</strong> es HTML5</p>
+</body>
+</html>
+Actividad
+Módulo 3: Cómo se publica un sitio web
+Actividad
+1. ¿Por qué se pudo secuestrar el dominio tonterias.com?
+Alguien suplantó la identidad de su propietario legítimo a través del correo e
+lectrónico.
+2. ¿Cómo fue secuestrado el dominio tonterias.com?
+El secuestrador cambió el nombre del propietario del dominio y se quedó con él
+.
+Actividad
+1. En el alojamiento compartido:
+Varios sitios web comparten el mismo servidor.
+2. ¿Cómo se suelen denominar los productos que ofrecen las empresas de alojamiento?
+Planes o paquetes.
+Actividad
+1. Cuando se selecciona un servicio de alojamiento si se quiere emplear ASP.NET
+y SQL Server se tiene que emplear el sistema operativo:
+Windows
+2. Cuando se calcula el tamaño de una página web:
+Se considera el tamaño del código HTML, de las hojas de estilo, del código Jav
+aScript y de cualquier otro fichero que se utilice en la página .
+Actividad
+1. FTP es el acrónimo de:
+File Transfer Protocol.
+2. El servidor que está permanentemente conectado a Internet y que aloja un sitio
+web se denomina:
+Servidor de producción.
+Actividad
+1. En la computación en la nube:
+Los usuarios acceden a los servicios informáticos a través de Internet.
+2. DHTML es:
+La combinación de HTML, CSS, JavaScript y DOM.
+Actividad
+1. Crea una página web que contenga un formulario con los siguientes campos de inf
+ormación:
+Examen
+El servidor que está permanentemente conectado a Internet y que aloja un sitio web
+se denomina:
+Servidor de producción.
+Un nombre de dominio se convierte en una dirección a través del sistema:
+DNS.
+Para obtener un nombre de dominio hay que dirigirse a un:
+Agente registrador.
+Para que un campo tipo checkbox aparezca marcado por defecto utilizamos el atrib
+uto:
+checked.
+En España, ¿qué institución gestiona los nombres de dominio .es?
+-- red.es
+Para definir un cuadro de texto en el que se pueden escribir múltiples líneas de tex
+to se emplea:
+<textarea>.
+El elemento de HTML que se emplea para definir una etiqueta para un control de f
+ormulario es:
+<label>.
+Cuando se registra un nombre de dominio:
+El espacio de almacenamiento es independiente del nombre de dominio.
+Respecto los nombres de dominio:
+Se tienen que renovar cada cierto tiempo
+En un formulario HTML, cuando se pulsa sobre un botón de tipo submit, los datos in
+troducidos en el formulario se envían a la URL indicada en el atributo del formula
+rio llamado:
+action.
+Módulo 4: Cómo se escribe una página web correcta
+Actividad
+1. En cuanto al juego de caracteres, lo más importante es...
+d) Ser consistente en todos tus ficheros.
+2. ¿Qué es el BOM?
+a) Un caracter Unicode que indica la ordenación de los bytes.
+Actividad
+1. Dentro de la etiqueta img, el atributo que se utiliza para indicar la ruta de
+la imagen es:
+c) src.
+2. ¿La etiqueta img se puede utilizar para incluir en una página web una imagen que
+se encuentra en otro servidor web?
+a) Sí.
+3. ¿Qué formatos gráficos son considerados el estándar en las páginas web?
+b) JPEG, GIF, PNG.
+4. ¿Qué es un mapa de imagen?
+c) Una imagen que contiene zonas activas que son enlaces.
+Actividad
+1.Acerca de HTML5, se puede afirmar que:
+c) La mayor parte de HTML5 sigue siendo igual a HTML4.
+2. Según el sitio web HTML5 Test, ¿qué navegador web obtiene una mayor puntuación de com
+patibilidad con HTML5?
+a) Google Chrome.
+Actividad
+1. ¿Qué es JSON?
+a) Un formato de intercambio de datos.
+2. ¿Qué es AJAX?
+c) Una técnica de desarrollo que permite crear aplicaciones interactivas q
+ue se ejecutan en el navegador.
+3. ¿Que nuevas etiquetas o tecnologías podemos usar en HTML5?.
+d) Todas las anteriores.
+Actividad
+1. ¿Qué etiquetas añade HTML5 para estructurar una página web?
+a) header, nav, aside, footer.
+2. La nueva etiqueta figure de HTML5 se emplea para
+a) Etiquetar cualquier cosa.
+3. La nueva etiqueta footer de HTML5 se emplea para
+c) Etiquetar el pie de una página.
+Actividad
+1. Los nuevos controles de formulario de HTML5 permiten:
+d) Todas las anteriores.
+2. En HTML5, ¿qué tipo de control input no existe?
+a) calendar.
+3. En HTML5, ¿qué atributo se emplea para definir una regla que limite el contenido
+de un cuadro de texto?
+a) pattern.
+4. El tipo number se emplea para definir campos en los que se debe introducir:
+d) Un número.
+Actividad
+1. En HTML5, ¿qué atributo se emplea para especificar los intervalos numéricos válidos p
+ara un elemento input?
+c) step.
+2. En HTML5, el atributo que se emplea para que un cuadro de texto sea obligator
+io es:
+d) required.
+3. En HTML5, el valor del atributo pattern tiene que ser:
+c) Una expresión regular.
+4. En HTML5, ¿qué atributo se emplea para mostrar una pista o ayuda de lo que se deb
+e escribir en un cuadro de texto?
+b) placeholder.
+Actividad
+1. ¿Qué se afirma en el vídeo tutorial acerca del navegador Internet Explorer 6?
+c) Fue un mal navegador web porque no cumplía correctamente los estándares
+web.
+2. De las posibles causas que hacen que una página web no se visualice correctamen
+te, ¿cuál depende de los desarrolladores web?
+a) Los errores en el código HTML.
+Examen
+¿Qué es un mapa de imagen?
+Un mapa que está compuesto por varias imágenes. malo
+¿Qué formatos gráficos son considerados el estándar en las páginas web?
+JPEG, GIF, PNG.
+Cuando se habla de HTML5 también se hace referencia a:
+Canvas, SVG, el API de geolocalización.
+¿El tipo de documento HTML se escribe antes o después de la etiqueta <html>?
+Antes: <!doctype html><html>
+Para definir un mapa de imagen en el lado del cliente se emplea la etiqueta
+<map>
+¿Cómo se indica el juego de caracteres en una página web?
+Con la etiqueta <meta>.
+En HTML, una celda de encabezado de una tabla se define con la etiqueta:
+<th>.
+En HTML, la fila de una tabla se define con la etiqueta:
+<tr>.
+¿Qué significa BOM en el juego de caracteres?
+Byte Order Mark.
+El juego de caracteres ISO-8859-1 también es conocido como:
+Latin1.
+final final
+Tim Berners-Lee es considerado el padre de la Web porque desarrolló:
+HTML, HTTP, URL.
+En HTML, para definir una lista desplegable se emplea:
+<select>.
+ICANN es el organismo que:
+Regula los nombres de dominio.
+En HTML, para agrupar varias filas que forman la cabecera de una tabla se emplea
+:
+<thead>.
+¿Qué organismo internacional desarrolla el lenguaje HTML?
+W3C.
+Las direcciones IPv6 se expresan por un número binario de:
+128 bits.
+Es importante validar el código HTML de una página web porque:
+Una página web sin errores es más probable que se visualice correctamente e
+n todos los navegadores.
+¿Se pueden utilizar todas las novedades que incorpora HTML5?
+Conviene averiguar el nivel de compatibilidad de las novedades con los
+navegadores actuales y usarlas con cuidado.
+Validar el código de una página web consiste en:
+Comprobar que la página web se visualiza igual que como se ha diseñado.
+Comprobar que la página se visualiza correctamente en todos los navegadores.
+La etiqueta <label> define:
+El nombre o etiqueta de un control de un formulario.
+¿Qué tecnologías se emplean en la programación de la parte servidor de una aplicación web?
+ASP.NET y PHP
+En HTML, el atributo que se emplea para asociar una imagen con un mapa de imagen
+del lado del cliente es:
+map.
+usemap.
+El juego de caracteres Latin1 también es conocido como:
+ISO-8859-1.
+En HTML, las zonas activas de un mapa de imagen del lado del cliente se definen
+con:
+<area>.
+En un formulario, para definir una casilla de verificación se emplea el control de
+tipo:
+checkbox.
+DNS es:
+El sistema que realiza la correspondencia entre las direcciones IP y los
+nombres de dominio.
+En HTML, para definir el título de una tabla se emplea:
+caption.
+Un nombre de dominio es:
+Un nombre único que identifica un sitio web en Internet.
+El prototipado de un sitio o página web se divide en:
+Cliente y servidor.
+Blogger es:
+Un CMS.
+La etiqueta <em> se emplea para:
+Mostrar un fragmento de texto en negrita.
+Destacar un fragmento de texto.
+¿Qué tecnología se suele asociar con HTML5?
+Canvas.
+¿Cómo se llama el protocolo que permite conocer los datos de registro de un nombre d
+e dominio?
+WHOIS.
+La etiqueta <ul> define una lista:
+De definición.
+¿Qué atributo de HTML se emplea normalmente en la etiqueta que define un formulario?
+method.
