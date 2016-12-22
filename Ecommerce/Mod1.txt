@@ -1,0 +1,70 @@
+¿En qué generación aparece la itinerancia internacional (roaming)?
+a) 0G.
+b) 1G.(respuesta)
+c) 2G.
+d) 2.5G.
+e) 3G.
+f) 3.5G.
+g) 4G.
+
+La estrategia para obtener beneficios de una aplicación…
+a) Es independiente del sistema operativo y plataforma adoptada, porque en todos los casos el comportamiento de los usuarios es muy similar.
+b) Debe basarse en cobrar un precio por la descarga de la aplicación.
+c) Debe basarse en la publicidad porque los usuarios de dispositivos móviles no están acostumbrados a pagar por sus descargas.
+d) Debe orientarse según un análisis previo del perfil de los potenciales usuarios, porque puede haber variaciones significativas.(Respuesta)
+e) Debe dirigirse a aquellas plataformas donde hay un mayor porcentaje de usuarios que paga por sus aplicaciones o es influido por la publicidad.
+
+La tipología de las aplicaciones más populares se caracteriza por:
+a) La uniformidad respecto a nivel mundial y por sistemas operativos.
+b) La existencia de ligeras variaciones geográficas, y más notables por sistema operativo.(Respuesta)
+c) El predominio absoluto de los juegos. 
+
+La evolución del panorama de los sistemas operativos para móviles se caracteriza por…
+a) Su estabilidad, con el mismo par de sistemas operativos dominando tradicionalmente el mercado.
+b) El predominio de Android e iOS desde antes de la llegada de los smartphones.
+c) Su permanente evolución.(Respuesta)
+
+¿En qué generación aparecen los mensajes cortos de texto (SMS)?
+a) 0G.
+b) 1G.
+c) 2G.(Respuesta)
+d) 2.5G.
+e) 3G.
+f) 3.5G.
+g) 4G.
+
+¿Los usuarios de qué plataforma se muestran más propensos a comprar aplicaciones y son más receptivos a la publicidad en ella?
+a) Android
+b) iOS(Respuesta)
+c) No existen diferencias significativas entre estas plataformas (Android e iOS).
+
+¿Cuál de las siguientes plataformas de desarrollo no es nativa?
+a) Blackberry
+b) Firefox OS
+c) iOS SDK
+d) Symbian(Respuesta)
+e) Windows Mobile
+
+¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?
+a) 0G.
+b) 1G.
+c) 2G.
+d) 2.5G.
+e) 3G.
+f) 3.5G.
+g) 4G.(Respuesta)
+
+¿En qué generación se comienza a usar telefonía digital?
+a) 0G.
+b) 1G.
+c) 2G.(respuesta)
+d) 2.5G.
+e) 3G.
+f) 3.5G.
+g) 4G.
+
+El panorama actual de las plataformas de desarrollo se caracteriza por…
+a) El predominio de las plataformas nativas, que son las únicas aptas para los smartphones.
+b) Las aproximaciones multi-plataforma se basan en el uso de tecnologías web.
+c) La coexistencia de propuestas nativas y multi-plataforma, cada una de ellas con sus propias ventajas e inconvenientes.(Respuesta)
+d) Android e iOS son las dos plataformas de desarrollo nativas existentes.
