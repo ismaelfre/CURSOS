@@ -1,0 +1,117 @@
+¿Cómo se llama el entorno de desarrollo para Android suministrado gratuitamente por Google?
+ a) Xcode.
+ b) App Builder.
+ c) ADT Bundle.(Respuesta)
+ d) Graphical Layout.
+
+Si estamos invirtiendo en ASO...
+ a) Estamos potenciando la usabilidad de la aplicación para que el usuario se adapte mejor a la aplicación.
+ b) Estamos aplicando técnicas que permiten una mejor adaptación del usuario ante tareas monótonas o aburridas.
+ c) Estamos siguiendo una serie de normas para conseguir mejorar el posicionamiento de la aplicación en los resultados.(Respuesta)
+ d) Estamos valorando los costes que supone integrar los distintos módulos de funcionalidad en la fase de desarrollo.
+
+A la hora de idear nuestra aplicación, qué factor no es necesario tener en cuenta...
+ a) Nicho de mercado.
+ b) Necesidades del usuario.
+ c) Competencia.
+ d) Limitaciones de los dispositivos.
+
+Las características que diferencian el desarrollo de las aplicaciones para móviles del desarrollo para sistemas de escritorio no incluyen...
+ a) Distinto proceso de desarrollo.
+ b) Variedad de dispositivos.
+ c) Sensores.
+ d) Limitaciones de hardware.(Respuesta)
+
+¿Cuándo debe elegir una solución basada en aplicaciones web?
+ a) Cuando tenga usuarios repartidos entre múltiples plataformas y necesite accceder a las características avanzadas de su sistema operativo.
+ b) Cuando la mayor parte de mis usuarios usan Android.
+ c) Cuando la mayor parte de mis usuarios usan iOS.
+ d) Cuando tenga usuarios repartidos entre múltiples plataformas y tenga garantizada una alta conectividad.(Respuesta)
+
+Las fases del proceso de desarrollo de una app no incluyen...
+ a) Concepto.
+ b) Preproducción.
+ c) Producción.
+ d) Estudio de limitaciones hardware.(Respuesta)
+
+En los dos sistemas operativos mayoritarios, podemos afirmar respecto a las aplicaciones más populares que:
+ a) Los usuarios de iOS están volcados en las aplicaciones de comunicación y sociales, y prácticamente no usan juegos.
+ b) Los usuarios de Android están dispuestos a pagar por aplicaciones que les permitan adaptar a sus gustos y necesidades el comportamiento de sus dispositivos.(Respuesta)
+ c) Los usuarios no quieren aplicaciones de comunicaciones porque estos servicios ya los soportan directamente sus smartphones.
+ d) Las aplicaciones para aprendizaje no son populares en los dispositivos móviles.
+
+¿Cuál es el lenguaje de programación para el desarrollo de aplicaciones en iOS?
+ a) C.
+ b) C++.
+ c) Objective-C.(Respuesta)
+ d) C#.
+
+Las aplicaciones Android se organizan fundamentalmente en torno a actividades y servicios. ¿Cuál es la diferencia entre ambos?
+ a) La actividad es un elemento que implementa funcionalidad con interfaz de usuario, mientras que el servicio es un elemento que también implementa funcionalidad pero carece de interfaz de usuario.(Respuesta)
+ b) La actividad es un elemento de funcionalidad sin interfaz de usuario. El servicio realiza comunicacaciones entre actividades.
+ c) La actividad se ocupa de realizar funciones en un segundo plano para el usuario, mientras que el servicio realiza comunicacaciones entre actividades.
+ d) El servicio es un elemento que implementa funcionalidad con interfaz de usuario, mientras que la actividad es un elemento que también implementa funcionalidad pero carece de interfaz de usuario.
+
+¿Cúales son los principales lenguajes usados dentro de la plataforma Android?
+ a) Java como lenguaje de programación y HTML como lenguaje estándar de descripción de datos.
+ b) Java como lenguaje de programación y XML como lenguaje estándar de descripción de datos.(Respuesta)
+ c) C++ como lenguaje de programación y HTML como lenguaje estándar de descripción de datos.
+ d) C++ como lenguaje de programación y XML como lenguaje estándar de descripción de datos.
+
+¿Cuál es la característica tecnológica clave de la generación 4G?
+ a) La adopción del protocolo WiMAX.
+ b) La adopción de la tecnología de conmutación basada en paquetes para todos los servicios.(Respuesta)
+ c) La aparición de las aplicaciones de streaming, que requieren un gran ancho de banda.
+ d) La incorporación de la tecnología digital de conmutación basada en paquetes para la telefonía móvil.
+
+¿Qué recurso no es necesario crear para subir una aplicación a la App Store?
+ a) Un icono en alta resolución de la aplicación.
+ b) Una lista de palabras claves que guarden relación con la aplicación.
+ c) Un vídeo conciso mostrando las partes más representativas de la aplicación.(Respuesta)
+ d) Varias imágenes mostrando las partes más representativas de la aplicación.
+
+¿Por medio de qué programa instalado en los dispositivos móviles podemos visualizar las applicaciones creadas con HTML?
+ a) El sistema operativo.
+ b) Un motor de juegos.
+ c) El navegador.(Respuesta)
+ d) JavaScript.
+
+Parte de las propuestas de desarrollo multiplataforma se basan en tecnologías web. ¿Cuáles son los lenguajes clave utilizados?
+ a) HTML5 y JavaScript.(Respuesta)
+ b) HTML5 y Objective-C.
+ c) XML y JavaScript.
+ d) C++ y JavaScript.
+
+¿Qué deberíamos hacer si queremos comprobar el número de gente que ha llegado a una pantalla concreta de nuestra aplicación?
+ a) Añadir una métrica especial en nuestro portal (iTunes o Google Play) y consultarla más adelante.
+ b) Aplicar técnicas de juegos aunque nuestra aplicación sea de uso no lúdico.
+ c) Introducir una herramienta de Bussines Intelligence e iniciar un seguimiento de la aplicación para esa pantalla.(Respuesta)
+ d) Utilizar elementos de social media para conseguir feedback de los usuarios y estudiar sus comentanios.
+
+Entre los directorios que podemos encontrar dentro de un proyecto de aplicación para Android se encuentran...
+ a) "src" para el código fuente en Java, "gen" para el código compilado, y "res" para recursos adicionales como el texto, imágenes o ficheros de datos.
+ b) "src" para el código auto-generado por las propias herramientas, "gen" para el código compilado, y "res" para recursos adicionales como el texto, imágenes o ficheros de datos.
+ c) "src" para el código fuente en Java, "gen" para el código auto-generado por las propias herramientas, y "res" para recursos adicionales como el texto, imágenes o ficheros de datos.(Respuesta)
+
+Cuando el usuario lanza una aplicación en iOS, ésta permanece en primer plano hasta que...
+ a) La cierra el usuario.
+ b) El usuario la envía a background.
+ c) El usuario la cierra, cambia de aplicación o sucede un evento inesperado del sistema que tiene prioridad.(Respuesta)
+ d) El usuario cambia el ciclo de vida de la aplicación.
+
+¿Cómo se llama la herramienta disponible en el entorno de desarrollo Xcode para iOS para la creación visual de interfaces de usuario?
+ a) Visual Interface.
+ b) Interface Constructor.
+ c) Interface Builder.(Respuesta)
+ d) Modelo-Vista-Controlador.
+
+Cuando desarrollamos una aplicación debemos centrarnos en conseguir atraer usuarios. ¿Qué podemos hacer para conseguirlo?
+ a) Integrar in-app purchases dentro de la aplicación.
+ b) Integrar facilidades para notificar en medios sociales (ej. redes sociales online o micro-blogging) opiniones sobre la aplicación.(Respuesta)
+ c) Incluir un sistema de notificaciones dentro de la aplicación.
+ 
+¿Qué significa la palabra Intent (propósito) dentro del código fuente de una aplicación para Android?
+ a) Representa una clase particular de programas cuyo objetivo principal es interactuar con el usuario.
+ b) Es la manera en que desde el código nos referimos a elementos como galerías de imágenes, cuadros de texto, visores web o botones.
+ c) Es el nombre de una clase que encapsula el intento de comunicar una actividad con otra, crear una actividad nueva o solicitar algún servicio.(Respuesta)
+ d) Hace referencia a los Intent Filters, unos filtros que sirven para obtener solamente aquella información que resulta relevante en el contexto de una determinada actividad.
