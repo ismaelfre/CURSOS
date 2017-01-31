@@ -1,0 +1,29 @@
+¿Qué papel juega Unity 3D en el desarrollo de juegos para móviles?
+	Fueron los primeros en dar soporte al desarrollo en Iphone y ahora su tecnologia domina el desarrollo de juegos para moviles.
+
+¿Pueden los sensores de serie medir parámetros médicos con precisión científica?
+	No, no estan diseñados con ese fin.
+
+¿Qué diferencia a las apps de salud y bienestar de las médicas?
+	Las apps medicas estan avaladas cientificamente.
+	
+¿Cómo afecta el modelo freemium al desarrollo de juegos para móvil?
+	Facilita la vida a los desarrolladores porque les permite lanzar mas productos.
+	
+A la hora de crear una aplicación en salud...
+	Pondremos especial foco en los pacientes
+	
+El planteamiento de un Producto Mínimo Viable (MVP) ...
+	Incluye en su primera version la funcionabilidad estrictamente necesaria para generar un producto con sentido
+
+¿Qué factores pueden marcar la diferencia entre el éxito y el fracaso de nuestra aplicación?
+	Un diseño grafico y experiencia de usuario cuidada.
+	
+¿Es recomendable firmar un Contrato de Confidencialidad (NDA) antes de presentar nuestro proyecto a posibles colaboradores e inversores?
+	En la mayoria de los casos no es lo mas recomendable.
+	
+A la hora de seleccionar una tecnología para desarrollar nuestra app...
+	Es conveniente buscar una solucion
+	
+Inicialmente la actitud de Apple frente a las aplicaciones de terceros en el iPhone fue...
+	Recomendar que se desarrollen por medio de HTML

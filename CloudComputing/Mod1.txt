@@ -1,0 +1,29 @@
+¿Cuál de las siguientes opciones no está asociado a una política de pago por uso en Cloud?
+	Es un problema al ser un gasto variable.
+	
+¿Cuál no es una ventaja de servicios Cloud?
+	Reducción de costes.
+
+Selecciona el comentario incorrecto
+	El modelo cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades.
+
+¿Cuáles son las categorías de cloud en función del rol y control que ejercen usuario y prestador?
+	Privada, pública, híbrida y en comunidad.
+
+Cloud Computing es principalmente…
+	un modelo de entrega y consumo de servicios apoyado por diversas tecnologías.
+
+¿Cuáles son las categorías de cloud en función del tipo de servicios que se ofrecen?
+	IaaS (infraestructura) – PaaS (plataforma) – SaaS (software).
+
+¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?
+	Cloud, social, analytics & mobility.
+
+Señala la frase incorrecta. Entre las características principales del cloud computing destaca la de…
+	disponer de programadores bajo demanda.
+
+¿Cloud se contrata siempre de forma online?
+	El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado.
+
+¿Un servicio cloud se puede contratar y empezar a trabajar inmediatamente?
+	Sí, puede que requiera de configuración, pero la autonomía es un requisito importante.

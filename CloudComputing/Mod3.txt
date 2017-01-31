@@ -1,0 +1,23 @@
+En un servicio cloud, el consumidor no tiene responsabilidad alguna sobre la seguridad del servicio y los datos.
+	Depende siempre de la regulacion y los terminos de contrato
+
+En cloud, el perímetro...
+	El perimetro puede despreocuparse de la seguridad
+	
+El modelo de Zero Trust sugiere...
+	Que la seguridad del acceso a los recursos dependa del origen de acceso.
+	
+Selecciona cuál de estas afirmaciones de la seguridad en entornos cloud es incorrecta.
+	El usuario puede despreocuparse de la seguridad
+
+¿Que es un sistema de doble autenticación?.
+	Un segundo paso de autentificacion mediante un numero o token generado aleatoriamente
+
+¿ Un servicio de correo SaaS lleva incluido un antivirus ?.
+	Si, suele ser un servicio dentro de las medidas de seguridad que ofrece el proveedor se incluya.
+
+El concepto de micro-segmentación propone para seguridad...
+	Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger
+
+Las fases de un ataque de seguridad son:
+	Intrusion, propagacion, expansion, exfiltracion

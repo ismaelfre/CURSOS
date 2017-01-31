@@ -1,0 +1,75 @@
+Cuando hablamos de PaaS...
+	Nos estamos refiriendo a servicios cloud que abstraen las aplicaciones de la capa de infraestructura
+	
+¿Qué diferencia hay entre IaaS y Virtualización?
+	La virtualizacion es la base de la infraestructura como servicio
+
+¿Qué aspecto crees que es mas importante que tenga una empresa para una mejor adaptación a cambios?
+	Innovacion y disrupcion
+
+¿Qué es un sistema de doble autenticación?
+	Un segundo paso de autentificacion mediante un numero o token generado aleatoriamente
+
+Indica qué frase completa NO es correcta: El Cloud Computing...
+	se basa en que nos adquieren y gestionan en nuestro nombre las licencias software y los equipos que queremos disponer, haciendo ellos la explotacion
+	
+Uno de los objetivos de la estandarización y las certificaciones es la transformación de las empresas que ofrecen servicios de IT hacia un mundo cloud
+	No
+	
+¿Puede cloud ayudarnos a cambiar un modelo organizativo jerárquico tradicional a uno colaborativo y disruptivo?
+	Si, puede
+
+¿Qué aporta cloud computing a los procesos de transformación digital?
+	Agilidad y capacidad de innovacion
+
+Cuando hablamos de containers, nos referimos a...
+	un elemento de infraestructura para empaquetar y abstraer aplicaciones
+
+Selecciona algunas claves de la seguridad en entornos cloud
+No	Administracion centralizada e incluso delegada
+No	Nuevas formas de trabajar que implican mejor seguridad para el usuario
+	
+¿Cuáles son actualmente las principales 4 palancas de transformación de los negocios?
+	Cloud, social, analytics & mobility.
+
+¿ Cloud se contrata siempre de forma online?
+	El cliente puede consumir directamente servicios Cloud y/o apoyarse en un partner especializado.
+
+La velocidad a la que evoluciona el sector tecnológico es muy rápida. ¿Podría una empresa quedarse obsoleta tecnológicamente hablando por no adoptar soluciones cloud?
+	Si
+	
+Al hablar de workplace digital nos referimos a...
+	la habilitacion de canales y experiencias para usuario final bajo un entorno multi-dispositivo y multi-contexto
+
+¿Qué tarea no se aborda cuando se implementa un servicio cloud?
+	Gestion de las operaciones de plataformas ligadas o no al servicio
+	
+Partiendo de una flexibilidad, transparencia, movilidad y un cambio cultural a la hora de usar soluciones Cloud, podemos llegar a crear un modelo organizativo diferente
+	Una nueva forma de aplicar seguridad de manera muy granular y ligada a los recursos que se quieren proteger
+
+Un cloudbroker nos puede ayudar a ...
+	facilitar el acceso a multiples proveedores de servicios y tipos de cloud
+	
+¿Qué línea de evolución no se asume como área de mejora y desarrollo en cloud computing?
+	rebajar el precio de manera continuada
+	
+El usuario cada vez demanda mas movilidad y agilidad con las herramientas corporativas
+	Verdadero
+	
+¿Crees que las soluciones y tecnología cloud pueden ayudar en el proceso de transformación digital de una compañía?
+	Si
+	
+¿Cuál crees que podría ser uno de los objetivos más interesantes de la adopción de soluciones cloud en una empresa?
+	Mejorar los procesos internos y por lo tanto el "go to market" hacias sus clientes 
+	
+¿Por qué surgen conceptos como cloud-native apps y devops?
+	Para dar respuesta a las necesidade actuales de crear y publicar servicios escalables de manera rapida
+		
+¿Cuál crees que es una de las principales razones de las empresas para no adoptar estos cambios, innovaciones y transformaciones?
+	Miedo al cambio
+	
+¿Qué herramienta podemos considerar estandard para acceder a multiples servicios Cloud?
+	Un navegador
+	
+Selecciona el comentaro incorrecto
+	El modelo cloud no se ve fortalecido por el uso de contratos que especifican condiciones de servicio, roles y responsabilidades.

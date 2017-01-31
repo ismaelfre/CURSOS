@@ -1,51 +1,29 @@
+iOS es un sistema operativo que funciona en los siguientes dispositivos
+	En los iphone ipad ipod touch y apple tv
+
+Las aplicaciones nativas para iOS se programan en...
+	cualquiera de los dos
+
+Necesitamos una cuenta de desarrollador para...
+	Subir aplicaciones al APPstore
+	
+Xcode es la herramienta de desarrollo para
+	todas las anteriores
+
+Un ViewController representa..
+	Cada una de las pantallas de una aplicacion IOS
+
 Con las herramientas de desarrollo para iOS se pueden crear aplicaciones iOS usando para el desarrollo sólo computadores con sistemas operativos...
-a) Linux
-b) Windows
-c) OS X(Respuesta)
-d) Los tres anteriores
-e) Android
-f) iOS
-g) Los dos anteriores
+	Mac OS
 
-Si queremos subir una aplicación a la App Store...
-a) Es necesario estar dado de alta en el programa de desarrolladores.(Respuesta)
-b) Podemos subirla sin coste alguno siempre y cuando la aplicación sea gratuita.
-c) Podemos hacerlo sin coste alguno para todo tipo de aplicaciones.
+Una interfaz esqueumorfista...
+	Aquella en la que los elementos graficos intentan imitar obnjetos del mundo real
+	
+¿Qué es el Storyboard?
+	Un archivo del proyecto Xcode en el que se definen las diferentes pantallas de la aplicacion y el flujo que hay entre ellas
 
-¿Qué es un "asset" dentro de un proyecto iOS?
-a) Una clase del lenguaje de programación Objective-C que forma parte del proyecto.
-b) Un recurso gráfico o de sonido usado por la aplicación del proyecto.(Respuesta)
-c) Una librería externa usada por el proyecto.
-d) Una vista que forma parte de la interfaz gráfica de usuario de la aplicación del proyecto.
+El desarrollo de aplicaciones para iOS tiene en común con el desarrollo para OSX...
+	Los tres anteriores
 
-La estructura de una aplicación iOS se basa en el patrón...
-a) Modelo-Vista-Controlador.(Respuesta)
-b) Interface Builder.
-c) Vista.
-d) Delegado de aplicación.
-
-El entorno de desarrollo Xcode...
-a) Está disponible para múltiples sistemas operativos.
-b) Sólo puede ser descargado previa adquisición de una licencia de desarrollador.
-c) Sólo está disponible para OSX y su descarga es gratuita desde la Mac App Store.(Respuesta)
-
-A la hora de crear una aplicación para iPhone...
-a) Es posible crear aplicaciones que solo puedan ser ejecutadas en iPhone 5 y dispositivos posteriores, que cuentan con ratio de pantalla más grande que sus predecesores.
-b) No es posible crear aplicaciones específicas para un modelo de iPhone.(Respuesta)
-c) Podemos elegir los terminales sobre los que queremos que trabaje nuestra aplicación.
-
-Si una aplicación está en background...
-a) Entrará en estado durmiente sin realizar ninguna actividad hasta que el usuario vuelva a activarla o la cierre manualmente.
-b) Será automáticamente cerrada por el sistema si la aplicación permanece demasiado tiempo inactiva.
-c) Podremos volver a ella en cualquier momento a menos que el sistema operativo la cierre por necesidades de memoria.(Respuesta)
-
-A la hora de crear una aplicación para iOS...
-a) Es necesario crear dos aplicaciones separadas, una para cada familia de dispositivos.
-b) Es recomendable crear una aplicación universal compatible con todos los dispositivos, siempre que sea posible, en base a las especificaciones y requisitos de la misma.(Respuesta)
-c) Una aplicación siempre se ha de poder ejecutar en toda la familia de dispositivos iOS.
-
-El proceso de publicación de una aplicación en la App Store termina con la aplicación disponible para los usuarios cuando...
-a) Se sube la aplicación al App Store.
-b) Se sube la aplicación al App Store y se notifica al desarrollador el resultado del proceso de validación.
-c) Se sube la aplicación al App Store y supera el proceso de validación.(Respuesta)
-d) Se sube la aplicación al App Store y falla en la validación.
+¿Qué es Auto Layout?
+	Herramienta nos permite crear una interfaz que se adapte automaticamente a los diferentes tamaños de pantalla

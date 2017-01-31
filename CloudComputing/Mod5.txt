@@ -1,0 +1,26 @@
+¿Qué aporta cloud computing a los procesos de transformación digital?
+	Agilidad y capacidad de innovacion
+
+Si adoptamos una orientación a servicios en lugar de una orientación a proyectos, el modelo organizativo...
+	Debe poner mas foco en la relacion con los usuarios que en una parcelacion por areas tecnicas.
+
+¿Cómo podría mejorar la eficiencia una herramienta cloud?
+	Ofreciendo movilidad, flexibilida y maxima disponibilidad en las herramientas que encesitamos a diario
+
+Cuando hablamos de containers, nos referimos a...
+	un elemento de infraestructura para empaquetar y abstraer aplicaciones
+
+Al hablar de workplace digital nos referimos a...
+	la habilitacion de canales y experiencias para usuario final bajo un entorno multi-dispositivo y multi-contexto
+
+Selecciona la afirmación incorrecta sobre devops
+	No requiere de un cambio cultural
+
+El usuario cada vez demanda mas movilidad y agilidad con las herramientas corporativas:
+	Verdadero
+
+¿Por qué surgen conceptos como cloud-native apps y devops?
+	Para dar respuesta a las necesidade actuales de crear y publicar servicios escalables de manera rapida
+
+Selecciona las afirmaciones correctas sobre waterfall y agile:
+	Waterfall pone foco en el cumpliento de requisitos de usuario y agile en la entrega rapida de resultados

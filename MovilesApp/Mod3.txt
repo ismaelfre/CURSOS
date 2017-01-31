@@ -1,64 +1,29 @@
-Publicar una aplicación Android desde Google Play sólo requiere:
-a) Tener una cuenta de Google.
-b) Tener una cuenta de Google y registrarse en la consola del desarrollador de Google Play para aplicaciones gratuitas.(Respuesta)
-c) Tener una cuenta de Google y registrarse en la consola del desarrollador de Google Play para cualquier tipo de aplicación.
-d) Tener una cuenta de Google, registrarse en la consola del desarrollador de Google Play y tener acceso a Google Drive para aplicaciones gratuitas.
-e) Tener una cuenta de Google, registrarse en la consola del desarrollador de Google Play y tener acceso a Google Drive para cualquier tipo de aplicación.
-
-Muchos programadores se han pasado al desarrollo de aplicaciones para Android porque...
-a) Se utiliza una versión mejorada de Eclipse, un entorno de desarrollo integrado pensado para principiantes.
-b) Se utiliza Java y XML, dos de los lenguajes más populares en el mundo de la programación.(Respuesta)
-c) Se utiliza Graphical Layout, una herramienta incluida en Eclipse que permite desarrollar las interfaces gráficas de las aplicaciones directamente desde código.
-
-Varias aplicaciones Android pueden compartir datos usando los elementos llamados:
-a) Servicios.
-b) Filtros de intenciones.
-c) Receptores.
-d) Proveedores de contenido.(Respuesta)
-e) Actividades.
-
-El manifiesto de un proyecto Android no incluye información sobre...
-a) Versión del ADT Bundle con la que se ha desarrollado la aplicación.(Respuesta)
-b) Permisos que requiere la aplicación.
-c) Librerías que necesita la aplicación.
-d) Componentes que forman parte de la aplicación.
-
-Con el ADT Bundle se pueden crear aplicaciones Android usando para el desarrollo solo computadores con sistemas operativos...
-a) Linux.
-b) Windows.
-c) Mac.
-d) Los tres anteriores.(Respuesta)
-e) Android.
-f) iOS.
-g) Los dos anteriores.
-
 El SDK de la distribución de Android es:
-a) El kit estándar de desarrollo, que incluye documentacióon sobre programación en Android y ejemplos de uso.
-b) El kit estándar de desarrollo, que incluye herramientas de desarrollo, una copia de la última versión de Android, emuladores y dispositivos virtuales.(Respuesta)
-c) El kit estándar de depuración, que incluye las herramientas de desarrollo para depurar aplicaciones Android.
-d) El kit estándar de despliegue, que incluye las herramientas necesarias para publicar una aplicación en Google Play.
-
-La descripción de la interfaz gráfica de las aplicaciones Android se basa en los siguientes 3 elementos:
-a) Service, ViewGroup y Layout.
-b) Layout, ViewGroup y View.(Respuesta)
-c) Layout, ViewGroup y Java.
-d) Graphical Layout, ViewGroup y View.
-e) Service, Graphical Layout y View
+	b) El kit estándar de desarrollo, que incluye herramientas de desarrollo, una copia de la última versión de Android, emuladores y dispositivos virtuales.(Respuesta)
 
 La fragmentación en Android es un fenómeno...
-a) Beneficioso para el desarrollador y para los usuarios.
-b) Según el cual las aplicaciones pueden ejecutarse de la misma forma en todos los dispositivos.
-c) Originado en buena medida porque existen 4000 tipos distintos de dispositivos, que ni siquiera comparten la misma versión del sistema operativo.(Respuesta)
-d) Que divide a los dispositivos en subcategorías, como "phablet", un producto a caballo entre el móvil y la tableta.
+	c) Originado en buena medida porque existen 4000 tipos distintos de dispositivos, que ni siquiera comparten la misma versión del sistema operativo.(Respuesta)
 
-La publicación de una aplicación para Android puede realizarse...
-a) Generando un archivo APK, similar a un ZIP, y copiándolo directamente en la memoria del teléfono de nuestros usuarios.(Respuesta)
-b) Previo pago de una cuota periódica impuesta a los desarrolladores por Google.
-c) Desde un emulador de dispositivos virtuales (o ADVs).
-d) Compartiéndola directamente con otras personas o poniéndola a disposición del público a través de una tienda digital como Google Wallet.
-
+Un servicio es un elemento funcional que podemos incluir en una app Android. Se caracteriza por...
+	a) Permitir realizar operaciones de larga duracion y no contar con interfaz grafica de usuario
+	
 El desarrollo de una aplicación en Android necesita:
-a) Contar con al menos un dispositivo Android. Dadas las caracterísitcas de portabilidad de Java y XML, si nuestra app funciona en ese dispositivo, funcionará en cualquier otro dispositivo Android de igual modo.
-b) Contar con tantos dispositivos Android como constituyan el objetivo de nuestra aplicación. Cada dispositivo puede tener diferente hardware y versiones de Android, y sólo probando la app en todos se puede garantizar su correcto funcionamiento.
-c) Basta en general con los dispositivos virtuales basados en los emuladores que se distribuyen con Android.(Respuesta)
-d) Eclipse como entorno de desarrollo.
+	c) Basta en general con los dispositivos virtuales basados en los emuladores que se distribuyen con Android.(Respuesta)
+
+El manifiesto de una app Android NO incluye información sobre..
+	d) Los dispositivos moviles en los que puede ejecutarse
+	
+Con los emuladores de Android NO podemos simular..
+	a) Un mal funcionamiento del dispositivo movil por una caida
+
+Con el Android Studio IDE podemos desarrollas nuestras apps de Android, pero, ¿cuál de las siguientes tareas NO podemos hacer con él?
+	e) Generar HTML5 a`partir de Android APP
+
+La arquitectura de la plataforma Android y sus apps está diseñada para atender algunos requisitos clave del desarrollo móvil. ¿Cuál de los siguientes NO es uno de estos requisitos principales?
+	b) Contar con una misma version de la plataforma android en todos los dispositivos que se ejecutan
+	
+La funcionalidad de una app Android se consigue mediante elementos de los siguientes tipos...
+	b) Actividad, Servicio y receptor de contenido
+
+Android es una plataforma completa para apps de dispositivos móviles. Esto significa que incluye la mayor parte de los elementos necesarios para crear y disfrutar de apps, pero ¿cuál de los siguientes no forma parte del ecosistema de Android?
+	d) Un smartphone Android físico con el que realizar las pruebas basicas de las apps.

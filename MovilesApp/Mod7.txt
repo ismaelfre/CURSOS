@@ -1,0 +1,32 @@
+¿Qué tipo de información no proporciona Google Play sobre nuestra aplicación?
+	Genero y edad de los usuarios que descargan la app
+
+¿Cuál es la técnica de fidelización en alza dentro del mundo de las apps?
+	c) Incluir elementos de juego tales como logros, recompensas, puntos…(Respuesta) 
+
+Si queremos consultar los ingresos conseguidos por descarga en nuestra aplicación Android hoy, ¿dónde debemos mirar?
+	a) Google Play.(Respuesta) 
+
+¿Cuáles de las siguientes opciones no son herramientas de Business Inteligence que permitan trazar eventos personalizados?
+	b) Google Play.(Respuesta)
+
+¿Qué herramientas o métodos debemos utilizar para identificar las necesidades del usuario?
+	c) Utilización de herramientas de tracking o seguimiento de la aplicación.(Respuesta) 
+
+Una vez publicada la aplicación, ¿cuál es la mejor estrategia para intentar que alcance el éxito?
+	d) Repartir esfuerzos en publicitar la aplicación y monitorizarla con herramientas de Bussiness Inteligence para conseguir mejores actualizaciones.(Respuesta) 
+	
+¿Cuál de los siguientes modelos de negocio incluye restricciones o limitaciones (de tiempo, uso, funcionalidad…) que se pueden eliminar mediante micropagos?
+	Freemium
+	
+A veces es difícil elegir el diseño adecuado para una app. Si queremos realizar varios diseños de forma rápida para ver su respuesta, ¿qué debemos hacer?
+	Prototipar
+
+Existen muchas formas de conseguir dar a conocer una app. ¿qué podemos hacer para que sea el usuario quien publicite nuestra app?
+	Incluir Redes sociales
+	
+¿Qué pasos debemos seguir durante el ciclo de vida de una app para mantenerla y mejorarla?
+	Recopilar datos, interpretarlos y actuar en consecuencia
+
+¿En qué consisten los tests A/B?
+	Son test con elementos diferentes para una misma app que se realizan a la vez sobre grupos de usuarios diferentes

@@ -20,9 +20,9 @@ b) La existencia de ligeras variaciones geográficas, y más notables por sistem
 c) El predominio absoluto de los juegos. 
 
 La evolución del panorama de los sistemas operativos para móviles se caracteriza por…
-a) Su estabilidad, con el mismo par de sistemas operativos dominando tradicionalmente el mercado.
+a) Su estabilidad, con el mismo par de sistemas operativos dominando tradicionalmente el mercado. (Respuesta)
 b) El predominio de Android e iOS desde antes de la llegada de los smartphones.
-c) Su permanente evolución.(Respuesta)
+c) Su permanente evolución.
 
 ¿En qué generación aparecen los mensajes cortos de texto (SMS)?
 a) 0G.
@@ -38,11 +38,11 @@ a) Android
 b) iOS(Respuesta)
 c) No existen diferencias significativas entre estas plataformas (Android e iOS).
 
-¿Cuál de las siguientes plataformas de desarrollo no es nativa?
+¿Cuál de las siguientes plataformas de desarrollo es nativa?
 a) Blackberry
 b) Firefox OS
-c) iOS SDK
-d) Symbian(Respuesta)
+c) iOS SDK (Respuesta)
+d) Symbian
 e) Windows Mobile
 
 ¿En qué generación se deja de utilizar la conmutación basada en circuitos para voz?
